@@ -40,9 +40,9 @@ What I care about in the code I write: errors that name the problem, data access
 | **[saga](https://github.com/RenzoPS/saga)** | Voice assistant for Linux: speech → Claude Code → speech. LiveKit owns the audio runtime, Deepgram does STT/TTS, and a custom LiveKit LLM plugin delegates to a hot Claude daemon — so it runs things on the machine instead of only answering. ~2-3s end to end. |
 | **[empresa-simulator](https://github.com/RenzoPS/empresa-simulator)** | Spring Boot 4 REST API. Dynamic filtering with JPA Specifications, Redis cache-aside, multi-stage Docker image running as non-root, CI/CD on GitHub Actions. 91 tests. |
 | **[mixopedia](https://github.com/RenzoPS/mixopedia)** | Cocktail encyclopedia. React 19 + TypeScript, TheCocktailDB for recipes, AI generation streamed through the Vercel AI SDK. [Live](https://renzo-mixopedia.netlify.app/) |
+| **[picado](https://github.com/RenzoPS/picado)** | Landing page with its own design system, built from a fictional brief. No UI kit, no icon library: every icon and motion behaviour is authored for the page. [Live](https://renzo-picado.netlify.app) |
 | **[uptask](https://github.com/RenzoPS/uptask)** | Project and task manager. Access token in memory, refresh token in an `HttpOnly` cookie, and an axios interceptor that renews and replays the original request. |
 | **[cineclub-backend](https://github.com/RenzoPS/cineclub-backend)** | Cinema booking API. Seat holds that expire on their own via a scheduler, so an abandoned checkout releases the seat. |
-| **[picado](https://github.com/RenzoPS/picado)** | Landing page with its own design system, built from a fictional brief. No UI kit, no icon library: every icon and motion behaviour is authored for the page. |
 | **[wedo-taskys](https://github.com/RenzoPS/wedo-taskys)** | A Trello for groups — shared boards, lists, tasks and invitations. MERN. Built as a team, 17 merged pull requests. [Live](https://wedo-taskys.vercel.app) |
 
 ---
