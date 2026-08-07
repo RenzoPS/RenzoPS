@@ -1,22 +1,41 @@
 ## Renzo Piris
 
-**Full stack developer, backend-leaning.** I build REST APIs and the interfaces that consume them.
+**Full Stack Developer and AI Engineer** — Java, Spring Boot, React, TypeScript.
 
-Day to day I work on banking software: Java 21, Spring Boot, PostgreSQL and Oracle, in a small team. Outside of that I work mostly in TypeScript — Node on the server, React on the client.
+I build backend services, the frontends that consume them, and AI tooling around both. I've taken services from an empty repository to running inside enterprise systems under strict correctness and traceability requirements.
+
+On the AI side I do engineering, not research: agents, RAG, MCP servers, automation pipelines. I use these tools daily and know where they break.
+
+I taught Mathematics and English for several years before writing code for a living — that's where I picked up the habit of explaining a technical decision to someone who won't read the code.
 
 What I care about in the code I write: errors that name the problem, data access that doesn't fall apart under a filter combination nobody predicted, and a README that lets you clone and run without asking anyone.
 
+**Open to freelance and contract work.**
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renzo-piris-saporito)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renzopiris2006@gmail.com)
+
 ---
 
-### Stack
+### 💻 Tech Stack
 
-**Backend** · Java · Spring Boot · JPA / Hibernate · Node.js · Express · REST APIs
+**Backend**
 
-**Frontend** · TypeScript · React · Vite · Tailwind
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-**Data** · PostgreSQL · MySQL · MongoDB · Redis · Prisma
+**Frontend**
 
-**Tooling** · Docker · GitHub Actions · Git · Linux
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Data**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Tooling**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -33,8 +52,11 @@ What I care about in the code I write: errors that name the problem, data access
 
 ---
 
-### Reach me
+### 📊 GitHub Stats
 
-renzopiris2006@gmail.com
+![Stats](https://github-readme-stats.shion.dev/api?username=RenzoPS&theme=transparent&hide_border=true&include_all_commits=true&show_icons=true)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=RenzoPS&theme=transparent&hide_border=true&layout=compact&langs_count=8)
 
-Open to freelance and contract work.
+---
+
+**renzopiris2006@gmail.com**
