@@ -6,8 +6,6 @@ I build backend services, the frontends that consume them, and AI tooling around
 
 On the AI side I do engineering, not research: agents, RAG, MCP servers, automation pipelines. I use these tools daily and know where they break.
 
-I taught Mathematics and English for several years before writing code for a living — that's where I picked up the habit of explaining a technical decision to someone who won't read the code.
-
 What I care about in the code I write: errors that name the problem, data access that doesn't fall apart under a filter combination nobody predicted, and a README that lets you clone and run without asking anyone.
 
 **Open to freelance and contract work.**
