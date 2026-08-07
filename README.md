@@ -50,7 +50,7 @@ What I care about in the code I write: errors that name the problem, data access
 ### 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.shion.dev/api?username=RenzoPS&theme=transparent&hide_border=true&include_all_commits=true&show_icons=true&hide_rank=true&hide=stars,issues)
-![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=RenzoPS&theme=transparent&hide_border=true&layout=compact&langs_count=8)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=RenzoPS&theme=transparent&hide_border=true&layout=compact&langs_count=6)
 
 ---
 
