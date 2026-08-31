@@ -94,7 +94,7 @@ What I care about in the code I write: **errors that name the problem**, data ac
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/RenzoPS/saga">saga</a></h3>
       <p>Voice assistant for Linux: <b>speech → Claude Code → speech</b>. LiveKit owns the audio runtime, streaming STT/TTS handles the voice, and a custom LLM plugin delegates to a hot Claude daemon — so it <i>runs</i> things on the machine instead of only answering. ~2-3s end to end.</p>
-      <p><img src="https://img.shields.io/badge/Python%20%C2%B7%20LiveKit%20%C2%B7%20STT%20%2F%20TTS-3670A0?style=for-the-badge" alt="Python · LiveKit · STT / TTS"/></p>
+      <p><img src="https://img.shields.io/badge/Python%20%C2%B7%20LiveKit%20%C2%B7%20STT%20%2F%20TTS-007ACC?style=for-the-badge" alt="Python · LiveKit · STT / TTS"/></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://avantaseguros.com.ar">Avanta Seguros</a> <sub><i>· client work</i></sub></h3>
@@ -107,13 +107,13 @@ What I care about in the code I write: **errors that name the problem**, data ac
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/RenzoPS/empresa-simulator">empresa-simulator</a></h3>
       <p>REST API on <b>Spring Boot 4</b>. Dynamic filtering with JPA Specifications, Redis cache-aside, a multi-stage Docker image running as non-root, and CI/CD on GitHub Actions. <b>91 tests.</b></p>
-      <p><img src="https://img.shields.io/badge/Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Redis%20%C2%B7%20Docker-6DB33F?style=for-the-badge" alt="Java · Spring Boot · Redis · Docker"/></p>
+      <p><img src="https://img.shields.io/badge/Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Redis%20%C2%B7%20Docker-007ACC?style=for-the-badge" alt="Java · Spring Boot · Redis · Docker"/></p>
     </td>
     <td width="50%" valign="top">
       <h3>⚽ <a href="https://github.com/RenzoPS/picado">picado</a></h3>
       <p>Landing page with <b>its own design language</b>, built from a fictional brief. No UI kit, no icon library: every icon and motion behaviour is authored for the page.</p>
       <p><b>Live:</b> <a href="https://renzo-picado.netlify.app">renzo-picado.netlify.app</a></p>
-      <p><img src="https://img.shields.io/badge/React%20%C2%B7%20Front--Design%20%C2%B7%20Motion-58a6ff?style=for-the-badge" alt="React · Front-Design · Motion"/></p>
+      <p><img src="https://img.shields.io/badge/React%20%C2%B7%20Front--Design%20%C2%B7%20Motion-007ACC?style=for-the-badge" alt="React · Front-Design · Motion"/></p>
     </td>
   </tr>
   <tr>
@@ -126,20 +126,20 @@ What I care about in the code I write: **errors that name the problem**, data ac
     <td width="50%" valign="top">
       <h3>✅ <a href="https://github.com/RenzoPS/uptask">uptask</a></h3>
       <p>Project and task manager. Access token in memory, refresh token in an <code>HttpOnly</code> cookie, and an axios interceptor that renews and <b>replays the original request</b>.</p>
-      <p><img src="https://img.shields.io/badge/MERN%20%C2%B7%20JWT%20%2F%20Auth%20%C2%B7%20Refresh%20tokens-47A248?style=for-the-badge" alt="MERN · JWT / Auth · Refresh tokens"/></p>
+      <p><img src="https://img.shields.io/badge/MERN%20%C2%B7%20JWT%20%2F%20Auth%20%C2%B7%20Refresh%20tokens-007ACC?style=for-the-badge" alt="MERN · JWT / Auth · Refresh tokens"/></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/RenzoPS/cineclub-backend">cineclub-backend</a></h3>
       <p>Cinema booking API. Seat holds expire on their own via a scheduler, so an abandoned checkout releases the seat instead of blocking it forever.</p>
-      <p><img src="https://img.shields.io/badge/Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL%20%C2%B7%20JWT%20%2F%20Auth-6DB33F?style=for-the-badge" alt="Java · Spring Boot · PostgreSQL · JWT / Auth"/></p>
+      <p><img src="https://img.shields.io/badge/Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL%20%C2%B7%20JWT%20%2F%20Auth-007ACC?style=for-the-badge" alt="Java · Spring Boot · PostgreSQL · JWT / Auth"/></p>
     </td>
     <td width="50%" valign="top">
       <h3>📋 <a href="https://github.com/RenzoPS/wedo-taskys">wedo-taskys</a></h3>
       <p>A Trello for groups — shared boards, lists, tasks and invitations. Built as a team, <b>17 merged pull requests</b>.</p>
       <p><b>Live:</b> <a href="https://wedo-taskys.vercel.app">wedo-taskys.vercel.app</a></p>
-      <p><img src="https://img.shields.io/badge/MERN%20%C2%B7%20JWT%20%2F%20Auth%20%C2%B7%20Teamwork-47A248?style=for-the-badge" alt="MERN · JWT / Auth · Teamwork"/></p>
+      <p><img src="https://img.shields.io/badge/MERN%20%C2%B7%20JWT%20%2F%20Auth%20%C2%B7%20Teamwork-007ACC?style=for-the-badge" alt="MERN · JWT / Auth · Teamwork"/></p>
     </td>
   </tr>
 </table>
