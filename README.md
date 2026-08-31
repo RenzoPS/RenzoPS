@@ -25,7 +25,7 @@ I take services from an empty repository to running inside enterprise systems un
 - 💾 **Data:** relational or NoSQL depending on the problem, not on habit. Dynamic filtering that composes instead of multiplying endpoints, caching where it helps, and N+1 caught before production.
 - 🎨 **Frontend:** React and TypeScript on those same features — forms, modals, data tables — plus shipped client sites scoring 100/100 on Accessibility, Best Practices and SEO in Lighthouse.
 - 🤖 **AI:** engineering, not research. Voice assistants, chatbots, agents, RAG, MCP servers and automation pipelines. I use these daily and know where they break.
-- 🧪 **Tests:** unit, integration and property-based. Documentation kept current, and Git done properly: feature branches, commits that explain themselves, review before anything merges.
+- 🧪 **Tests & tooling:** unit, integration and property-based tests. Linting and formatting enforced, documentation kept current, and Git done properly: feature branches, commits that explain themselves, review before anything merges.
 
 What I care about in the code I write: **errors that name the problem**, data access that doesn't fall apart under a filter combination nobody predicted, and a README that lets you clone and run without asking anyone. I don't add a dependency when the existing stack already solves the problem.
 
@@ -43,8 +43,8 @@ What I care about in the code I write: **errors that name the problem**, data ac
 ![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20%2F%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Data**
 
@@ -62,43 +62,30 @@ What I care about in the code I write: **errors that name the problem**, data ac
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-**Testing, quality & performance**
+**Testing & docs**
 
 ![JUnit](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
-![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 
-**Infra, tooling & deployment**
+**Infra & deployment**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Applied AI**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Voice Assistants](https://img.shields.io/badge/Voice%20Assistants-374151?style=for-the-badge)
-![STT / TTS](https://img.shields.io/badge/STT%20%2F%20TTS-374151?style=for-the-badge)
-![Chatbots](https://img.shields.io/badge/Chatbots-374151?style=for-the-badge)
-![RAG & Agents](https://img.shields.io/badge/RAG%20%26%20Agents-374151?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP%20Servers-374151?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logo=livekit&logoColor=00E5C0)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
