@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/renzo-piris-saporito" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Renzo%20Piris-0a66c2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPgo=" alt="LinkedIn"/></a>
+  <a href="https://www.upwork.com/freelancers/~01011782718676527c" target="_blank"><img src="https://img.shields.io/badge/Upwork-Renzo%20P.-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="mailto:renzopiris2006@gmail.com"><img src="https://img.shields.io/badge/Email-renzopiris2006@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Open%20to%20freelance%20%26%20contract-58a6ff?style=for-the-badge" alt="Open to work"/>
 </p>
@@ -17,13 +18,13 @@
 
 ## 🚀 What I do
 
-I take services from an empty repository to running inside enterprise systems under strict correctness and traceability requirements. Today that means the banking sector, inside a 7-person engineering team, on systems in production.
+I take services from an empty repository to running inside enterprise systems under strict correctness and traceability requirements. Today that means the banking sector, inside a 7-person engineering team, on systems in production — and freelance work for real clients on the side.
 
 - ☕ **Backend:** microservices in Java and Spring Boot — domain model, REST API, migrations, containers and tests. Node with Express when the project calls for it.
-- 🔐 **Auth & security:** token-based authentication, role-based access control, CORS, and the parts of the OWASP Top 10 that actually break APIs.
+- 🔐 **Auth & security:** token-based authentication with Spring Security and JWT, role-based access control, CORS, and the parts of the OWASP Top 10 that actually break APIs.
 - 💾 **Data:** relational or NoSQL depending on the problem, not on habit. Dynamic filtering that composes instead of multiplying endpoints, caching where it helps, and N+1 caught before production.
-- 🎨 **Frontend:** React and TypeScript on those same features — forms, modals, data tables — so the work ships end to end instead of stopping at the API.
-- 🤖 **AI:** engineering, not research. Agents, RAG, MCP servers and automation pipelines. I use these daily and know where they break.
+- 🎨 **Frontend:** React and TypeScript on those same features — forms, modals, data tables — plus shipped client sites scoring 100/100 on Accessibility, Best Practices and SEO in Lighthouse.
+- 🤖 **AI:** engineering, not research. Voice assistants, chatbots, agents, RAG, MCP servers and automation pipelines. I use these daily and know where they break.
 - 🧪 **Tests:** unit, integration and property-based. Documentation kept current, and Git done properly: feature branches, commits that explain themselves, review before anything merges.
 
 What I care about in the code I write: **errors that name the problem**, data access that doesn't fall apart under a filter combination nobody predicted, and a README that lets you clone and run without asking anyone. I don't add a dependency when the existing stack already solves the problem.
@@ -38,16 +39,17 @@ What I care about in the code I write: **errors that name the problem**, data ac
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT%20%2F%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
@@ -60,31 +62,43 @@ What I care about in the code I write: **errors that name the problem**, data ac
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-**Testing & quality**
+**Testing, quality & performance**
 
 ![JUnit](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 
-**Infra & tooling**
+**Infra, tooling & deployment**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Applied AI**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP%20Servers-1f2937?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20%26%20Agents-4b5563?style=for-the-badge&logoColor=white)
+![Voice Assistants](https://img.shields.io/badge/Voice%20Assistants-374151?style=for-the-badge)
+![STT / TTS](https://img.shields.io/badge/STT%20%2F%20TTS-374151?style=for-the-badge)
+![Chatbots](https://img.shields.io/badge/Chatbots-374151?style=for-the-badge)
+![RAG & Agents](https://img.shields.io/badge/RAG%20%26%20Agents-374151?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP%20Servers-374151?style=for-the-badge)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
@@ -95,13 +109,27 @@ What I care about in the code I write: **errors that name the problem**, data ac
   <tr>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/RenzoPS/saga">saga</a></h3>
-      <p>Voice assistant for Linux: <b>speech → Claude Code → speech</b>. LiveKit owns the audio runtime, Deepgram does STT/TTS, and a custom LLM plugin delegates to a hot Claude daemon — so it <i>runs</i> things on the machine instead of only answering. ~2-3s end to end.</p>
-      <p><img src="https://img.shields.io/badge/Python%20%C2%B7%20LiveKit%20%C2%B7%20Deepgram-3670A0?style=for-the-badge" alt="Python"/></p>
+      <p>Voice assistant for Linux: <b>speech → Claude Code → speech</b>. LiveKit owns the audio runtime, streaming STT/TTS handles the voice, and a custom LLM plugin delegates to a hot Claude daemon — so it <i>runs</i> things on the machine instead of only answering. ~2-3s end to end.</p>
+      <p><img src="https://img.shields.io/badge/Python%20%C2%B7%20LiveKit%20%C2%B7%20STT%20%2F%20TTS-3670A0?style=for-the-badge" alt="Python · LiveKit · STT / TTS"/></p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://avantaseguros.com.ar">Avanta Seguros</a> <sub><i>· client work</i></sub></h3>
+      <p>Website for an Argentine insurance brokerage, built to work as a real sales channel instead of a business card. Designed and shipped end to end: UI/UX, development, hosting, domain and ongoing maintenance. <b>100/100 on Accessibility, Best Practices and SEO in Lighthouse</b>, verified across six regions, shipping in 1.3 MB.</p>
+      <p><b>Live:</b> <a href="https://avantaseguros.com.ar">avantaseguros.com.ar</a> · <i>private repo (client code)</i></p>
+      <p><img src="https://img.shields.io/badge/React%2019%20%C2%B7%20TypeScript%20%C2%B7%20Technical%20SEO-007ACC?style=for-the-badge" alt="React 19 · TypeScript · Technical SEO"/></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/RenzoPS/empresa-simulator">empresa-simulator</a></h3>
       <p>REST API on <b>Spring Boot 4</b>. Dynamic filtering with JPA Specifications, Redis cache-aside, a multi-stage Docker image running as non-root, and CI/CD on GitHub Actions. <b>91 tests.</b></p>
-      <p><img src="https://img.shields.io/badge/Java%20%C2%B7%20Spring%20%C2%B7%20Redis%20%C2%B7%20Docker-6DB33F?style=for-the-badge" alt="Java"/></p>
+      <p><img src="https://img.shields.io/badge/Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Redis%20%C2%B7%20Docker-6DB33F?style=for-the-badge" alt="Java · Spring Boot · Redis · Docker"/></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚽ <a href="https://github.com/RenzoPS/picado">picado</a></h3>
+      <p>Landing page with <b>its own design language</b>, built from a fictional brief. No UI kit, no icon library: every icon and motion behaviour is authored for the page.</p>
+      <p><b>Live:</b> <a href="https://renzo-picado.netlify.app">renzo-picado.netlify.app</a></p>
+      <p><img src="https://img.shields.io/badge/React%20%C2%B7%20Front--Design%20%C2%B7%20Motion-58a6ff?style=for-the-badge" alt="React · Front-Design · Motion"/></p>
     </td>
   </tr>
   <tr>
@@ -109,41 +137,33 @@ What I care about in the code I write: **errors that name the problem**, data ac
       <h3>🍸 <a href="https://github.com/RenzoPS/mixopedia">mixopedia</a></h3>
       <p>Cocktail encyclopedia. React 19 + TypeScript, TheCocktailDB for recipes, and AI generation streamed through the Vercel AI SDK.</p>
       <p><b>Live:</b> <a href="https://renzo-mixopedia.netlify.app/">renzo-mixopedia.netlify.app</a></p>
-      <p><img src="https://img.shields.io/badge/React%2019%20%C2%B7%20TypeScript%20%C2%B7%20AI%20SDK-007ACC?style=for-the-badge" alt="React"/></p>
+      <p><img src="https://img.shields.io/badge/React%2019%20%C2%B7%20TypeScript%20%C2%B7%20AI%20SDK-007ACC?style=for-the-badge" alt="React 19 · TypeScript · AI SDK"/></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚽ <a href="https://github.com/RenzoPS/picado">picado</a></h3>
-      <p>Landing page with <b>its own design system</b>, built from a fictional brief. No UI kit, no icon library: every icon and motion behaviour is authored for the page.</p>
-      <p><b>Live:</b> <a href="https://renzo-picado.netlify.app">renzo-picado.netlify.app</a></p>
-      <p><img src="https://img.shields.io/badge/Design%20System%20%C2%B7%20React%20%C2%B7%20Motion-58a6ff?style=for-the-badge" alt="Design System"/></p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>✅ <a href="https://github.com/RenzoPS/uptask">uptask</a></h3>
       <p>Project and task manager. Access token in memory, refresh token in an <code>HttpOnly</code> cookie, and an axios interceptor that renews and <b>replays the original request</b>.</p>
-      <p><img src="https://img.shields.io/badge/MERN%20%C2%B7%20JWT%20%C2%B7%20Refresh%20tokens-47A248?style=for-the-badge" alt="MERN"/></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/RenzoPS/cineclub-backend">cineclub-backend</a></h3>
-      <p>Cinema booking API. Seat holds expire on their own via a scheduler, so an abandoned checkout releases the seat instead of blocking it forever.</p>
-      <p><img src="https://img.shields.io/badge/Spring%20Boot%20%C2%B7%20PostgreSQL%20%C2%B7%20JWT-6DB33F?style=for-the-badge" alt="Spring Boot"/></p>
+      <p><img src="https://img.shields.io/badge/MERN%20%C2%B7%20JWT%20%2F%20Auth%20%C2%B7%20Refresh%20tokens-47A248?style=for-the-badge" alt="MERN · JWT / Auth · Refresh tokens"/></p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/RenzoPS/cineclub-backend">cineclub-backend</a></h3>
+      <p>Cinema booking API. Seat holds expire on their own via a scheduler, so an abandoned checkout releases the seat instead of blocking it forever.</p>
+      <p><img src="https://img.shields.io/badge/Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL%20%C2%B7%20JWT%20%2F%20Auth-6DB33F?style=for-the-badge" alt="Java · Spring Boot · PostgreSQL · JWT / Auth"/></p>
+    </td>
     <td width="50%" valign="top">
       <h3>📋 <a href="https://github.com/RenzoPS/wedo-taskys">wedo-taskys</a></h3>
       <p>A Trello for groups — shared boards, lists, tasks and invitations. Built as a team, <b>17 merged pull requests</b>.</p>
       <p><b>Live:</b> <a href="https://wedo-taskys.vercel.app">wedo-taskys.vercel.app</a></p>
-      <p><img src="https://img.shields.io/badge/MERN%20%C2%B7%20Teamwork-47A248?style=for-the-badge" alt="MERN"/></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/RenzoPS?tab=repositories">And more</a></h3>
-      <p>Every repo has a README with the full picture: how it works, the stack, and how to run it. Have a look 👇</p>
-      <p><a href="https://github.com/RenzoPS?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a></p>
+      <p><img src="https://img.shields.io/badge/MERN%20%C2%B7%20JWT%20%2F%20Auth%20%C2%B7%20Teamwork-47A248?style=for-the-badge" alt="MERN · JWT / Auth · Teamwork"/></p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  Every repo has a README with the full picture: how it works, the stack, and how to run it.<br/>
+  <a href="https://github.com/RenzoPS?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+</p>
 
 ---
 
@@ -159,5 +179,6 @@ What I care about in the code I write: **errors that name the problem**, data ac
 ## 📬 Get in touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/renzo-piris-saporito)
+- 🟢 [Upwork](https://www.upwork.com/freelancers/~01011782718676527c)
 - ✉️ [renzopiris2006@gmail.com](mailto:renzopiris2006@gmail.com)
 - 🐙 [@RenzoPS](https://github.com/RenzoPS)
