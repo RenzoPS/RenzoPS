@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Renzo Piris — Full Stack Developer and AI Engineer. Java, Spring Boot, React, TypeScript, Docker. Buenos Aires, Argentina.">
+  <title>Renzo Piris — Full Stack Developer &amp; AI Engineer</title>
+
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="70%" stop-color="#0f141c"/>
+      <stop offset="100%" stop-color="#12181f"/>
+    </linearGradient>
+
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#f0883e"/>
+    </pattern>
+
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.42" stop-color="#000000"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <mask id="dotmask">
+      <rect width="1280" height="300" fill="url(#fade)"/>
+    </mask>
+
+    <style>
+      /* JetBrains Mono, subset to the glyphs used here and embedded so the
+         banner renders identically wherever GitHub serves it. */
+      @font-face { font-family: "JBM-XB"; src: url(data:font/woff2;base64,d09GMgABAAAAAAQgAA4AAAAACCgAAAPNAAJN0wAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmAAbBEICoV8hGoBNgIkAzQLHAAEIAWEFgcgG4cGIB6D426JYYrFosn/4b/1oMTDP/ej7ntTlTRnsNpyk5YSKEN0RVO4KUpX5x/kZZNNlaRGCiZLFdZS2RP9NL5g4fcJr3P/A6yXnVpb9RaxJtaZC4WSaJkooiGZRZfOkAiZUMUjCaabJqpO95/+ug3z8svhgpS2awStV6AWkFIoFcpVC4FqvZIhG+W1rRCgFAoBEOa4HKzGgm8OMXaIBQKjS7MTJfmSr1idAPaHneMqCKIQIKli7KHn3hqADwYtKvlzPsJnDBo2RY7nFDDID4kStEIF/72PM6BZKFQa1KiZjomDx6JCwiQ79yu4Sy465rAD9tlRMJYQhRoQ6rTvBurxnRhwE7aVmAVyyNkFog4LweKr8Mjm4MhZPJDwJTaPjsKDkREcZ6HE5jfIytc4PlFf2YV3i21o09gY4ujGxxE2tR48o8nu9BAjI93QESsf45teEgiB4kgQi4CaMgJegy8BWY2uvF+96a7Mwa3sat/8IBBAlQf3fiOpDvRDBrHiVo3fnVh5e6k9Iln5mEeh+g6txjfd9ODaWNuKe+AEYghEguBaHVx/9RwIvTiyZ/DgafHUzzq3PN9QXlZgdMnrNPgWDW8jTW/kaaD44/t6lzhfU1pR6riwcea0N6I8cl+7YIjN1Qjaga6qskoUw8WrihXDVklVlZm3rm9KFIXwB38Id4dULO243Rf0CAkS/uTzMdh6fr3z1Prl48eeWxvfqb1Ur5Q3Djr6NPtaqec5Oc+pVqCqqiw5IQtULSDIfB4r6TlqFT1LU5/oVdRnOBnfabzaqFK39DmGpfvY1Fxe3gi/EiKrSnV5shrh7sTDWXTuk/g4ScnS4MqAuu7S82Nc3fyO6t2xpnRuujwmhvtjfnAj1tRX1+TpdEH5o5DU8lU3Bs16VsHMnVwsYxTLbeuCHOeLCrVpBaiELZCLJXEQ5OGbs49GFg2EqP4HhKBvAd9+6RfK2Ma1P/P/OVl/SwcBlEsQHBt1ngFw/3tqCGavy07oftHFQIUuF4ZAu0IQfibgfBEgqIubcNt6KE8rK7msFS46EaUY8AYIHBbdhVO9f3CJFb/yS2FwmaNQTFduPrbBOgenhdxMDIwYJAFeZyG1BoFOUq3BjGJuQ4f7FDxIdRzsHEiN3BzMdDQYpCJeDCMHNw9SDiMGw8lDgYvLwAS6jtcwDg0HG26hlGFR6UpyF+YsswAzLSnm/6iVVjMdAy+rIW4CHEI8IkrViinLlWInBO0SN4xgUkhqKInB0BvaDKuDkXQY9Z+Hj0PWAdHjlGIT0xIblrsIHco4K0YABAAA) format("woff2"); }
+      @font-face { font-family: "JBM-MD"; src: url(data:font/woff2;base64,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) format("woff2"); }
+      @font-face { font-family: "JBM-RG"; src: url(data:font/woff2;base64,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) format("woff2"); }
+
+      .name { font-family: "JBM-XB", ui-monospace, "JetBrains Mono", Menlo, Consolas, monospace; }
+      .role { font-family: "JBM-MD", ui-monospace, "JetBrains Mono", Menlo, Consolas, monospace; }
+      .body { font-family: "JBM-RG", ui-monospace, "JetBrains Mono", Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#surface)"/>
+  <rect width="1280" height="300" fill="url(#dots)" mask="url(#dotmask)" opacity="0.10"/>
+  <rect x="0.5" y="0.5" width="1279" height="299" fill="none" stroke="#21262d" stroke-width="1"/>
+
+  <text class="body" x="80" y="66" font-size="20" fill="#7d8590"><tspan fill="#f0883e">$</tspan> whoami<tspan fill="#f0883e" dx="6">█<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+
+  <text class="body" x="1200" y="66" font-size="17" fill="#7d8590" text-anchor="end"><tspan fill="#3fb950">●</tspan> available for freelance</text>
+
+  <text class="name" x="80" y="158" font-size="70" letter-spacing="-1" fill="#e6edf3">Renzo Piris</text>
+
+  <text class="role" x="80" y="208" font-size="25" fill="#f0883e">Full Stack Developer &amp; AI Engineer</text>
+
+  <text class="body" x="80" y="240" font-size="18" fill="#7d8590">Java · Spring Boot · React · TypeScript · Docker</text>
+
+  <text class="body" x="1200" y="240" font-size="17" fill="#7d8590" text-anchor="end">Buenos Aires, Argentina</text>
+</svg>
