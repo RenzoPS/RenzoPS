@@ -94,44 +94,36 @@ What I care about in the code I write: **errors that name the problem**, data ac
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>☕ <a href="https://github.com/RenzoPS/bruma">bruma</a></h3>
-      <p>A fictional specialty coffee shop and <b>Brumita</b>, a RAG assistant that answers about the menu and the beans. Retrieval over <b>pgvector</b>, four declared tools the model routes between on its own, and prices answered by SQL and never by a vector — <i>something like</i> $4.800 is the worst way to answer a price. <b>110 tests</b>, retrieval calibrated (Top-1 17/18, Recall@5 18/18), and <b>every constant carries the measurement that produced it</b> in the comment beside it — including three that overturned what looked settled: an HNSW index that was not being used, a similarity threshold calibrated against negatives that were too easy, and a model fallback slower than the failure it caught.</p>
-      <p><img src="https://img.shields.io/badge/Next.js%2016%20%C2%B7%20Express%20%C2%B7%20Drizzle%20%C2%B7%20pgvector%20%C2%B7%20RAG-007ACC?style=for-the-badge" alt="Next.js 16 · Express · Drizzle · pgvector · RAG"/></p>
+      <p>A fictional coffee shop and <b>Brumita</b>, a RAG assistant over its menu and its beans. Retrieval on <b>pgvector</b>, four declared tools the model routes between on its own, and prices answered by SQL — never by a vector. <b>110 tests</b>, retrieval calibrated (Top-1 17/18, Recall@5 18/18), and every constant carries the measurement that produced it.</p>
+      <p><img src="https://img.shields.io/badge/Next.js%20%C2%B7%20Drizzle%20%C2%B7%20pgvector%20%C2%B7%20RAG-007ACC?style=for-the-badge" alt="Next.js · Drizzle · pgvector · RAG"/></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/RenzoPS/saga">saga</a></h3>
       <p>Voice assistant for Linux: <b>speech → Claude Code → speech</b>. LiveKit owns the audio runtime, streaming STT/TTS handles the voice, and a custom LLM plugin delegates to a hot Claude daemon — so it <i>runs</i> things on the machine instead of only answering. ~2-3s end to end.</p>
       <p><img src="https://img.shields.io/badge/Python%20%C2%B7%20LiveKit%20%C2%B7%20STT%20%2F%20TTS-007ACC?style=for-the-badge" alt="Python · LiveKit · STT / TTS"/></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://avantaseguros.com.ar">Avanta Seguros</a> <sub><i>· client work</i></sub></h3>
       <p>Website for an Argentine insurance brokerage, built to work as a real sales channel instead of a business card. Designed and shipped end to end: UI/UX, development, hosting, domain and ongoing maintenance. <b>100/100 on Accessibility, Best Practices and SEO in Lighthouse</b>, verified across six regions, shipping in 1.3 MB.</p>
       <p><b>Live:</b> <a href="https://avantaseguros.com.ar">avantaseguros.com.ar</a> · <i>private repo (client code)</i></p>
       <p><img src="https://img.shields.io/badge/React%2019%20%C2%B7%20TypeScript%20%C2%B7%20Technical%20SEO-007ACC?style=for-the-badge" alt="React 19 · TypeScript · Technical SEO"/></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/RenzoPS/empresa-simulator">empresa-simulator</a></h3>
       <p>REST API on <b>Spring Boot 4</b>. Dynamic filtering with JPA Specifications, Redis cache-aside, a multi-stage Docker image running as non-root, and CI/CD on GitHub Actions. <b>91 tests.</b></p>
       <p><img src="https://img.shields.io/badge/Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Redis%20%C2%B7%20Docker-007ACC?style=for-the-badge" alt="Java · Spring Boot · Redis · Docker"/></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⚽ <a href="https://github.com/RenzoPS/picado">picado</a></h3>
       <p>Landing page with <b>its own design language</b>, built from a fictional brief. No UI kit, no icon library: every icon and motion behaviour is authored for the page.</p>
       <p><b>Live:</b> <a href="https://renzo-picado.netlify.app">renzo-picado.netlify.app</a></p>
       <p><img src="https://img.shields.io/badge/React%20%C2%B7%20Front--Design%20%C2%B7%20Motion-007ACC?style=for-the-badge" alt="React · Front-Design · Motion"/></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍸 <a href="https://github.com/RenzoPS/mixopedia">mixopedia</a></h3>
-      <p>Cocktail encyclopedia. React 19 + TypeScript, TheCocktailDB for recipes, and AI generation streamed through the Vercel AI SDK.</p>
-      <p><b>Live:</b> <a href="https://renzo-mixopedia.netlify.app/">renzo-mixopedia.netlify.app</a></p>
-      <p><img src="https://img.shields.io/badge/React%2019%20%C2%B7%20TypeScript%20%C2%B7%20AI%20SDK-007ACC?style=for-the-badge" alt="React 19 · TypeScript · AI SDK"/></p>
     </td>
     <td width="50%" valign="top">
       <h3>✅ <a href="https://github.com/RenzoPS/uptask">uptask</a></h3>
