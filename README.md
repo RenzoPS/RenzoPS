@@ -48,16 +48,19 @@ What I care about in the code I write: **errors that name the problem**, data ac
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 **Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -90,6 +93,13 @@ What I care about in the code I write: **errors that name the problem**, data ac
 ## 🗂️ Selected work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>☕ <a href="https://github.com/RenzoPS/bruma">bruma</a></h3>
+      <p>A fictional specialty coffee shop and <b>Brumita</b>, a RAG assistant that answers about the menu and the beans. Retrieval over <b>pgvector</b>, four declared tools the model routes between on its own, and prices answered by SQL and never by a vector — <i>something like</i> $4.800 is the worst way to answer a price. <b>110 tests</b>, retrieval calibrated (Top-1 17/18, Recall@5 18/18), and <b>every constant carries the measurement that produced it</b> in the comment beside it — including three that overturned what looked settled: an HNSW index that was not being used, a similarity threshold calibrated against negatives that were too easy, and a model fallback slower than the failure it caught.</p>
+      <p><img src="https://img.shields.io/badge/Next.js%2016%20%C2%B7%20Express%20%C2%B7%20Drizzle%20%C2%B7%20pgvector%20%C2%B7%20RAG-007ACC?style=for-the-badge" alt="Next.js 16 · Express · Drizzle · pgvector · RAG"/></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/RenzoPS/saga">saga</a></h3>
